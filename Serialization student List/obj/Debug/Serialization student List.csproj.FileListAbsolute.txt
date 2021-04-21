@@ -1,0 +1,11 @@
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\bin\Debug\Serialization student List.exe.config
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\bin\Debug\Serialization student List.exe
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\bin\Debug\Serialization student List.pdb
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization student List.csprojAssemblyReference.cache
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization_student_List.Properties.Resources.resources
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization student List.csproj.GenerateResource.cache
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization student List.csproj.CoreCompileInputs.cache
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization student List.exe
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization student List.pdb
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization_student_List.StudentRegistration.resources
+D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization_student_List.Studentlist.resources
