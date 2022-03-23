@@ -9,3 +9,14 @@ D:\Advanced techniques of programming\Serialization student List\Serialization s
 D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization student List.pdb
 D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization_student_List.StudentRegistration.resources
 D:\Advanced techniques of programming\Serialization student List\Serialization student List\obj\Debug\Serialization_student_List.Studentlist.resources
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\bin\Debug\Serialization student List.exe.config
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\bin\Debug\Serialization student List.exe
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\bin\Debug\Serialization student List.pdb
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization student List.csproj.AssemblyReference.cache
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization_student_List.StudentRegistration.resources
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization_student_List.Studentlist.resources
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization_student_List.Properties.Resources.resources
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization student List.csproj.GenerateResource.cache
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization student List.csproj.CoreCompileInputs.cache
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization student List.exe
+C:\Users\alain\Documents\GitHub\XML-Serialization-in-CSharp\Serialization student List\obj\Debug\Serialization student List.pdb
